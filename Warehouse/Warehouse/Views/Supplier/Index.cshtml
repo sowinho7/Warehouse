@@ -1,0 +1,33 @@
+﻿@using Warehouse.ViewModel
+@model Warehouse.ViewModel.SupplierViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+@foreach (var item in Model.Supplierslist)
+{
+    <table>
+        <tr>
+            <td>nazwa</td>
+            <td></td>
+        </tr>
+
+        <tbody>
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Country</td>
+                <td>@item.City</td>
+                <td>@item.Zip_code</td>
+                <td>@item.Address</td>
+                <td>@item.Acc_no</td>
+                <td>@item.Tax_no</td>
+            </tr>
+        </tbody>
+    </table>
+}
+
+
+@Html.ActionLink("Add", "Add", null, new { @class = "btn btn-primary" })

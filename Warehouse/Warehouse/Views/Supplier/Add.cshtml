@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "Add";
+}
+
+<h2>Add</h2>
+@using (Html.BeginForm())
+{
+    @Html.Label("Nazwa");
+    @Html.TextBox("supplier.name");
+
+    @Html.Label("Kraj");
+    @Html.TextBox("supplier.country");
+
+    @Html.Label("Miasto");
+    @Html.TextBox("supplier.city");
+
+    @Html.Label("Adres");
+    @Html.TextBox("supplier.address");
+
+    @Html.Label("kod pocztowy");
+    @Html.TextBox("supplier.zip_code");
+
+    @Html.Label("numer konta");
+    @Html.TextBox("supplier.acc_no");
+
+    @Html.Label("numer podatnika");
+    @Html.TextBox("supplier.tax_no");
+
+    <input type="submit" value="Dodaj" class="btn btn-primary" />
+    @Html.ActionLink("Wroc", "Index", null, new { @class = "btn btn-danger" })
+}
