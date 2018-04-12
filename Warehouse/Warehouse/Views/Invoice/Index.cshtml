@@ -1,0 +1,41 @@
+﻿@model Warehouse.ViewModel.InvoiceViewModel
+@{
+    @{
+        ViewBag.Title = "Index";
+    }
+
+    <h2>Index</h2>
+
+
+    @foreach (var item in Model.Invoicelist)
+    {
+        <table>
+
+            <tr>
+                <td>Id klienta</td>
+                <td>Numer faktury</td>
+                <td>Data</td>
+                <td>Zamówienia</td>
+                <td>Data Płatności</td>
+               
+            </tr>
+
+            <tbody>
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Vat</td>
+                    <td>@item.NettoPrice</td>
+                    <td>@item.Count</td>
+                    <td>@item.SupplierId</td>
+                    <td>@item.Description</td>
+
+
+                   
+                </tr>
+
+            </tbody>
+        </table>
+    }
+   
+
+    @Html.ActionLink("Add", "Add", null, new { @class = "btn btn-primary" })

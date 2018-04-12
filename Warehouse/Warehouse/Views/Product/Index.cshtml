@@ -22,11 +22,15 @@
             <tr>
                 <td>@item.Name</td>
                 <td>@item.Vat</td>
-                <td>@item.Netto_price</td>
+                <td>@item.NettoPrice</td>
                 <td>@item.Count</td>
-                <td>@item.Supplier_id</td>
+                <td>@item.SupplierId</td>
                 <td>@item.Description</td>
+
+                
                 <td><img src='@Url.Action("GetBarcode","Product", new { ean = 123})' alt="" /></td>
+                <td><img src='@Url.Action("GetBarcodeEight","Product", new { ean = 123})' alt="" /></td>
+                <td><img src='@Url.Action("GetBarcodeQR","Product", new { ean = 123})' alt="" /></td>
             </tr>
             
         </tbody>

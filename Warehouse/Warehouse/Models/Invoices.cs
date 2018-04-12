@@ -10,11 +10,11 @@ namespace Warehouse.Models
     {
         [Key]
         public int Id { get; set; }
-        public int Client_id { get; set; }
-        public int Invoice_no { get; set; }
-        public DateTime Invoice_date { get; set; }
+        public int ClientId { get; set; }
+        public int InvoiceNo { get; set; }
+        public DateTime InvoiceDate { get; set; }
         public ICollection<In_orders> Orders { get; set; }
-        public DateTime Payment_date { get; set; }
+        public DateTime PaymentDate { get; set; }
 
     }
 }
