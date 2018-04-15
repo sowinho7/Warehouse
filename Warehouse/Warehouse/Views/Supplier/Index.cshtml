@@ -7,14 +7,23 @@
 <h2>Index</h2>
 
 
-@foreach (var item in Model.Supplierslist)
-{
-    <table>
-        <tr>
-            <td>nazwa</td>
-            <td></td>
-        </tr>
 
+
+<table style="width:100%" class="table table-striped">
+    <tr>
+        <td>Nazwa firmy</td>
+        <td>Narodowość</td>
+        <td>Miasto</td>
+        <td>Kod pocztowy</td>
+        <td>Adres</td>
+        <td>Numer konta</td>
+        <td>Podatek</td>
+
+    </tr>
+
+
+    @foreach (var item in Model.Supplierslist)
+    {
         <tbody>
             <tr>
                 <td>@item.Name</td>
@@ -25,9 +34,11 @@
                 <td>@item.AccNo</td>
                 <td>@item.TaxNo</td>
             </tr>
+            
         </tbody>
+    }
     </table>
-}
+
 
 
 @Html.ActionLink("Add", "Add", null, new { @class = "btn btn-primary" })

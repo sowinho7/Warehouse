@@ -376,3 +376,5 @@ D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.Cor
 D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.CopyComplete
 D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\obj\Debug\Warehouse.dll
 D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.dbchange.resources
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.dbmigrupdt.resources

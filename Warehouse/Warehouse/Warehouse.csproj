@@ -211,6 +211,14 @@
     <Compile Include="Migrations\201804100832011_initialmigration.Designer.cs">
       <DependentUpon>201804100832011_initialmigration.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201804150658125_dbchange.cs" />
+    <Compile Include="Migrations\201804150658125_dbchange.Designer.cs">
+      <DependentUpon>201804150658125_dbchange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201804150700332_dbmigrupdt.cs" />
+    <Compile Include="Migrations\201804150700332_dbmigrupdt.Designer.cs">
+      <DependentUpon>201804150700332_dbmigrupdt.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Brand.cs" />
@@ -299,6 +307,7 @@
     <Content Include="Views\Supplier\Add.cshtml" />
     <Content Include="Views\Product\Index.cshtml" />
     <Content Include="Views\Invoice\Index.cshtml" />
+    <Content Include="Views\Product\Add.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -319,6 +328,12 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201804100832011_initialmigration.resx">
       <DependentUpon>201804100832011_initialmigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201804150658125_dbchange.resx">
+      <DependentUpon>201804150658125_dbchange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201804150700332_dbmigrupdt.resx">
+      <DependentUpon>201804150700332_dbmigrupdt.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

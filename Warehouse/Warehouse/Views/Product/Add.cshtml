@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Add";
+}
+
+<h2>Add</h2>
+@using (Html.BeginForm())
+{
+    <table style="width:100%" class="table table-striped">
+        <tr>
+            <td> @Html.Label("Nazwa")</td>
+            <td>@Html.Label("Vat")</td>
+            <td>@Html.Label("Cena netto")</td>
+            <td>@Html.Label("Liczba")</td>
+            <td>@Html.Label("Marka")</td>
+            <td>@Html.Label("Opis")</td>
+           
+
+        </tr>
+        <tr>
+            <td>@Html.TextBox("Product.Name")</td>
+            <td>@Html.TextBox("Product.Vat")</td>
+            <td>@Html.TextBox("Product.NettoPrice")</td>
+            <td>@Html.TextBox("Product.Count")</td>
+            <td>@Html.TextBox("Product.SupplierID")</td>
+            <td>@Html.TextBox("Product.Description")</td>
+           
+        </tr>
+    </table>
+
+    <input type="submit" value="Dodaj" class="btn btn-primary" />
+    @Html.ActionLink("Wroc", "Index", null, new { @class = "btn btn-danger" })
+}
