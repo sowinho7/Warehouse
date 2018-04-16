@@ -12,6 +12,9 @@ namespace Warehouse.Controllers
     public class InvoiceController:Controller
     {
         InvoiceRepository repository = new InvoiceRepository();
+
+       
+
         // GET: Supplier
         public ActionResult Index()
         {
@@ -39,6 +42,24 @@ namespace Warehouse.Controllers
         {
 
             return View();
+        }
+
+        public ActionResult Delete(int id)
+        {
+            repository.DeleteInvoice(id);
+            return RedirectToAction("Index");
+        }
+
+        public ActionResult Edit()
+        {
+
+            return View();
+        }
+
+        public ActionResult Edit(Invoices Invoice, int id)
+        {
+            repository.EditInvoice(Invoice,id);
+            return RedirectToAction("Index");
         }
     }
 }

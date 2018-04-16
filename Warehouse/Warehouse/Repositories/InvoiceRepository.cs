@@ -62,5 +62,24 @@ namespace Warehouse.Repositories
                 throw (e);
             }
         }
+
+        public void EditInvoice(Invoices Invoice, int id)
+        {
+            try
+            {
+                ApplicationDbContext ctx = new ApplicationDbContext();
+                var OldInvoice = ctx.Invoices.Single(XmlSiteMapProvider => XmlSiteMapProvider.id == id);
+                    OldInvoice.ClientId = Invoice.ClientId;
+                    OldInvoice.InvoiceNo = Invoice.InvoiceNo;
+                    OldInvoice.InvoiceDate = Invoice.InvoiceDate;
+                    OldInvoice.PaymentDate = Invoice.PaymentDate;
+                    
+            }
+            catch (Exception e)
+            {
+                throw (e);
+            }
+        }
+
     }
 }
