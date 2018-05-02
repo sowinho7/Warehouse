@@ -1,41 +1,40 @@
 ﻿@model Warehouse.ViewModel.InvoiceViewModel
+
 @{
-    @{
-        ViewBag.Title = "Index";
-    }
+    ViewBag.Title = "Index";
+}
 
-    <h2>Index</h2>
+<h2>Index</h2>
 
-
-    @foreach (var item in Model.Invoicelist)
-    {
-        <table>
-
-            <tr>
-                <td>Id klienta</td>
-                <td>Numer faktury</td>
-                <td>Data</td>
-                <td>Zamówienia</td>
-                <td>Data Płatności</td>
-               
-            </tr>
-
-            <tbody>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <table class="table table-striped">
                 <tr>
-                    <td>@item.Name</td>
-                    <td>@item.Vat</td>
-                    <td>@item.NettoPrice</td>
-                    <td>@item.Count</td>
-                    <td>@item.SupplierId</td>
-                    <td>@item.Description</td>
+                    <th>Numer faktury</th>
+                    <th>Data</th>
+                    <th>Opcje</th>
 
-
-                   
                 </tr>
+                @foreach (var itm in Model.Invoicelist)
+                {
+                    <tr>
+                        <td>@itm.InvoiceNo</td>
+                        <td>@itm.InvoiceDate</td>
+                        <td>
+                            @Html.ActionLink("Usuń", "DeleteInvoice", new { Id = itm.Id }, new { @class = "btn btn-danger" })
+                            @Html.ActionLink("Szczegóły", "GetInvoice", new { Id = itm.Id }, new { @class = "btn btn-warning" })
+                            @Html.ActionLink("Edytuj", "EditInvoice", new { Id = itm.Id }, new { @class = "btn btn-primary" })
+                        </td>
+                    </tr>
 
-            </tbody>
-        </table>
-    }
-   
+                }
 
-    @Html.ActionLink("Add", "Add", null, new { @class = "btn btn-primary" })
+            </table>
+
+        </div>
+
+    </div>
+
+</div>
+@Html.ActionLink("Add", "AddInvoice", (object)null, new { @class = "btn btn-primary" })

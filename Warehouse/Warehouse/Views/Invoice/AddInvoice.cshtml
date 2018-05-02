@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "AddInvoice";
+}
+
+<h2>AddInvoice</h2>
+
+@using (Html.BeginForm())
+{
+    <table style="width:100%" class="table table-striped">
+        <tr>
+            <td>@Html.Label("Numer faktury")</td>
+            <td>@Html.Label("Data faktury")</td>
+            <td>@Html.Label("Data płatności")</td>
+            <td>@Html.Label("Nazwa firmy")</td>
+            <td>@Html.Label("Narodowość")</td>
+            <td>@Html.Label("Miasto")</td>
+            <td>@Html.Label("Adres")</td>
+            <td>@Html.Label("Kod pocztowy")</td>
+            <td>@Html.Label("Nazwa produktu")</td>
+            <td>@Html.Label("Vat")</td>
+            <td>@Html.Label("Cena netto")</td>
+            <td>@Html.Label("Liczba")</td>
+
+
+
+        </tr>
+        <tr>
+            <td>@Html.TextBox("Invoice.InvoiceNo")</td>
+            <td>@Html.TextBox("Invoice.InvoiceDate")</td>
+            <td>@Html.TextBox("Invoice.PaymentDate")</td>
+            <td>@Html.TextBox("Invoice.Name")</td>
+            <td>@Html.TextBox("Invoice.Country")</td>
+            <td>@Html.TextBox("Invoice.City")</td>
+            <td>@Html.TextBox("Invoice.Address")</td>
+            <td>@Html.TextBox("Invoice.ZipCode")</td>
+            <td>@Html.TextBox("Invoice.ProdName")</td>
+            <td>@Html.TextBox("Invoice.Vat")</td>
+            <td>@Html.TextBox("Invoice.NettoPrice")</td>
+            <td>@Html.TextBox("Invoice.Count")</td>
+
+
+        </tr>
+    </table>
+
+    <input type="submit" value="Dodaj" class="btn btn-primary" />
+    @Html.ActionLink("Wróc", "Index", (object)null, new { @class = "btn btn-danger" })
+}

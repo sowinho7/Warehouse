@@ -46,6 +46,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="itextsharp, Version=5.5.13.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13\lib\itextsharp.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.8.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
     </Reference>
@@ -219,6 +222,10 @@
     <Compile Include="Migrations\201804150700332_dbmigrupdt.Designer.cs">
       <DependentUpon>201804150700332_dbmigrupdt.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201804241920531_db_updt_invoice.cs" />
+    <Compile Include="Migrations\201804241920531_db_updt_invoice.Designer.cs">
+      <DependentUpon>201804241920531_db_updt_invoice.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Brand.cs" />
@@ -306,11 +313,10 @@
     <Content Include="Views\Supplier\Index.cshtml" />
     <Content Include="Views\Supplier\Add.cshtml" />
     <Content Include="Views\Product\Index.cshtml" />
-    <Content Include="Views\Invoice\Index.cshtml" />
     <Content Include="Views\Product\Add.cshtml" />
-    <Content Include="Views\Invoice\Add.cshtml" />
-    <Content Include="Views\Invoice\Delete.cshtml" />
-    <Content Include="Views\Invoice\Edit.cshtml" />
+    <Content Include="Views\Invoice\Index.cshtml" />
+    <Content Include="Views\Invoice\GetInvoice.cshtml" />
+    <Content Include="Views\Invoice\AddInvoice.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -337,6 +343,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201804150700332_dbmigrupdt.resx">
       <DependentUpon>201804150700332_dbmigrupdt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201804241920531_db_updt_invoice.resx">
+      <DependentUpon>201804241920531_db_updt_invoice.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
