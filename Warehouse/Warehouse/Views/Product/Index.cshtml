@@ -5,41 +5,34 @@
 
 <h2>Index</h2>
 
+@foreach (var item in Model.Productlist)
+{
+    <table>
+        
+        <tr>
+            <td>nazwa</td>
+            <td>Vat</td>
+            <td>Cena netto</td>
+            <td>Count</td>
+            <td>Marka</td>
+            <td>Opis</td>
+        </tr>
 
-<table style="width:100%" class="table table-striped">
-
-    <tr>
-        <td>Nazwa</td>
-        <td>Vat</td>
-        <td>Cena netto</td>
-        <td>Liczba</td>
-        <td>Marka</td>
-        <td>Opis</td>
-        <td>Kody</td>
-    </tr>
-
-    @foreach (var item in Model.Productlist)
-    {
         <tbody>
             <tr>
                 <td>@item.Name</td>
                 <td>@item.Vat</td>
-                <td>@item.NettoPrice</td>
+                <td>@item.Netto_price</td>
                 <td>@item.Count</td>
-                <td>@item.SupplierId</td>
+                <td>@item.Supplier_id</td>
                 <td>@item.Description</td>
-
-
-                <td><img src='@Url.Action("GetBarcode", "Product", new { ean = 123 })' alt="" />
-                <img src='@Url.Action("GetBarcodeEight", "Product", new { ean = 123 })' alt="" />
-                <img src='@Url.Action("GetBarcodeQR", "Product", new { ean = 123 })' alt="" /></td>
+                <td><img src='@Url.Action("GetBarcode","Product", new { ean = 123})' alt="" /></td>
             </tr>
-
+            
         </tbody>
-    }
     </table>
-
-   
+}
+    <img src='@Url.Action("GetBarcode","Barcode", new { ean = 123})' alt="" />
 
 @Html.ActionLink("Add", "Add", null, new { @class = "btn btn-primary" })
 

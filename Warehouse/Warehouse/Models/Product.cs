@@ -12,10 +12,10 @@ namespace Warehouse.Models
         public int Id { get; set; }
         public string Name { get; set; }
         public int Vat { get; set; }
-        public float NettoPrice { get; set; }
+        public float Netto_price { get; set; }
         public int Count { get; set; }
-        public int CategoryId { get; set; }
-        public int SupplierId { get; set; }
+        public int Category_id { get; set; }
+        public int Supplier_id { get; set; }
         public string Description { get; set; }
 
     }

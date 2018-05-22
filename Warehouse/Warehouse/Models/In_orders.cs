@@ -10,9 +10,9 @@ namespace Warehouse.Models
     {
         [Key]
         public int Id { get; set; }
-        public DateTime OrderDate { get; set; }
-        public int ProductId { get; set; }
-        public int CustomerId { get; set; }
+        public DateTime Order_date { get; set; }
+        public int Product_id { get; set; }
+        public int Customer_id { get; set; }
         public int Count { get; set; }
     }
 }
