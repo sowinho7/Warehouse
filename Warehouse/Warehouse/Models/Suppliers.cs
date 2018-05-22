@@ -14,9 +14,9 @@ namespace Warehouse.Models
         public string Country { get; set; }
         public string City { get; set; }
         public string Address { get; set; }
-        public string Zip_code { get; set; }
-        public string Acc_no { get; set; }
-        public string Tax_no { get; set; }
+        public string ZipCode { get; set; }
+        public string AccNo { get; set; }
+        public string TaxNo { get; set; }
     }
 }
 

@@ -6,27 +6,28 @@
 <h2>Add</h2>
 @using (Html.BeginForm())
 {
-    @Html.Label("Nazwa");
-    @Html.TextBox("supplier.name");
+<table style="width:100%" class="table table-striped">
+    <tr>
+        <td> @Html.Label("Nazwa")</td>
+        <td>@Html.Label("Kraj")</td>
+        <td>@Html.Label("Miasto")</td>
+        <td>@Html.Label("Adres")</td>
+        <td>@Html.Label("Kod pocztowy")</td>
+        <td>@Html.Label("Kumer konta")</td>
+        <td> @Html.Label("Podatek")</td>
+       
+    </tr>
+    <tr>
+        <td>@Html.TextBox("supplier.name")</td>
+        <td>@Html.TextBox("supplier.country")</td>
+        <td>@Html.TextBox("supplier.city")</td>
+        <td>@Html.TextBox("supplier.address")</td>
+        <td>@Html.TextBox("supplier.zip_code")</td>
+        <td>@Html.TextBox("supplier.acc_no")</td>
+        <td>@Html.TextBox("supplier.tax_no")</td>
+    </tr>
+</table>
 
-    @Html.Label("Kraj");
-    @Html.TextBox("supplier.country");
-
-    @Html.Label("Miasto");
-    @Html.TextBox("supplier.city");
-
-    @Html.Label("Adres");
-    @Html.TextBox("supplier.address");
-
-    @Html.Label("kod pocztowy");
-    @Html.TextBox("supplier.zip_code");
-
-    @Html.Label("numer konta");
-    @Html.TextBox("supplier.acc_no");
-
-    @Html.Label("numer podatnika");
-    @Html.TextBox("supplier.tax_no");
-
-    <input type="submit" value="Dodaj" class="btn btn-primary" />
-    @Html.ActionLink("Wroc", "Index", null, new { @class = "btn btn-danger" })
-}
+            <input type="submit" value="Dodaj" class="btn btn-primary" />
+            @Html.ActionLink("Wroc", "Index", null, new { @class = "btn btn-danger" })
+            }

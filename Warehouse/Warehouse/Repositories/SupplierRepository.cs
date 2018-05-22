@@ -63,5 +63,26 @@ namespace Warehouse.Repositories
             }
         }
 
+        public void EditSupplier(int id,Suppliers supp)
+        {
+            try
+            {
+                ApplicationDbContext ctx = new ApplicationDbContext();
+                var oldsupp = ctx.Suppliers.Single(x => x.Id == id);
+                oldsupp.Name = supp.Name;
+                oldsupp.Country = supp.Country;
+                oldsupp.City = supp.City;
+                oldsupp.Address = supp.Address;
+                oldsupp.AccNo = supp.AccNo;
+                oldsupp.ZipCode = supp.ZipCode;
+                oldsupp.TaxNo = oldsupp.TaxNo;
+                ctx.SaveChanges();
+            }
+            catch(Exception e)
+            {
+                throw (e);
+            }
+        }
+
     }
 }

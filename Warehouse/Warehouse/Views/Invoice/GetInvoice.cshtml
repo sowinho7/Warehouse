@@ -1,0 +1,114 @@
+﻿@using Warehouse.Models
+@model Invoices
+@{
+    ViewBag.Title = "GetInvoice";
+}
+
+<h2>GetInvoice</h2>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+
+            <table class="table table-striped">
+                <tr>
+
+                    <td>
+                        @Html.Label("Numer Faktury:")
+                    </td>
+                    <td>
+                        @Model.InvoiceNo
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.Label("Data faktury:")
+                    </td>
+                    <td>
+                        @Model.InvoiceDate
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.Label("Data płatności:")
+                    </td>
+                    <td>
+                        @Model.PaymentDate
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.Label("Nazwa firmy:")
+                    </td>
+                    <td>
+                        @Model.Name
+                    </td>
+                <tr>
+                    <td>
+                        @Html.Label("Narodowość:")
+                    </td>
+                    <td>
+                        @Model.Country
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.Label("Miasto:")
+                    </td>
+                    <td>
+                        @Model.City
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.Label("Adres:")
+                    </td>
+                    <td>
+                        @Model.Address
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.Label("Kod pocztowy:")
+                    </td>
+                    <td>
+                        @Model.ZipCode
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.Label("Nazwa produktu:")
+                    </td>
+                    <td>
+                        @Model.ProdName
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.Label("Vat:")
+                    </td>
+                    <td>
+                        @Model.Vat
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.Label("Cena netto:")
+                    </td>
+                    <td>
+                        @Model.NettoPrice
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.Label("Liczba:")
+                    </td>
+                    <td>
+                        @Model.Count
+                    </td>
+                </tr>               
+            </table>
+        </div>
+    </div>
+</div>
+@Html.ActionLink("Wróć", "Index", (object)null, new { @class = "btn btn-primary" })

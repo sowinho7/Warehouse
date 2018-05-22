@@ -34,6 +34,20 @@ namespace Warehouse.Repositories
             }
         }
 
+        public IEnumerable<Product> GetProductList(string search)
+        {
+            try
+            {
+                ApplicationDbContext ctx = new ApplicationDbContext();
+                var products = ctx.Product.Where(x => x.Name.Contains(search));
+                return products;
+            }
+            catch(Exception e)
+            {
+                throw (e);
+            }
+        }
+
         public void AddProduct(Product product)
         {
             try

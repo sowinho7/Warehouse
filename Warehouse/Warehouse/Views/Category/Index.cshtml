@@ -1,0 +1,23 @@
+﻿@using Warehouse.ViewModel
+@model Warehouse.ViewModel.CategoryViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<table>
+    <tr>
+        Nazwa
+    </tr>
+    @foreach (var item in Model.Categorylist)
+    {
+        <tr>
+            <td>
+                @item.Name
+            </td>
+        </tr>
+
+    }
+</table>
+
+@Html.ActionLink("Add", "Add", null, new { @class = "btn btn-primary" })

@@ -9,6 +9,6 @@ namespace Warehouse.ViewModel
     public class ProductViewModel
     {
         public Product product { get; set; }
-        public List<Product> Productlist { get; set; }
+        public IEnumerable<Product> Productlist { get; set; }
     }
 }

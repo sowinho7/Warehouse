@@ -1,0 +1,41 @@
+﻿@model Warehouse.ViewModel.InvoiceViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <table class="table table-striped">
+                <tr>
+                    <th>Numer faktury</th>
+                    <th>Data</th>
+                    <th>Opcje</th>
+
+                </tr>
+                @foreach (var itm in Model.Invoicelist)
+                {
+                    <tr>
+                        <td>@itm.InvoiceNo</td>
+                        <td>@itm.InvoiceDate</td>
+                        <td>
+                            @Html.ActionLink("Usuń", "DeleteInvoice", new { Id = itm.Id }, new { @class = "btn btn-danger" })
+                            @Html.ActionLink("Szczegóły", "GetInvoice", new { Id = itm.Id }, new { @class = "btn btn-warning" })
+                            @Html.ActionLink("Edytuj", "EditInvoice", new { Id = itm.Id }, new { @class = "btn btn-primary" })
+                            @Html.ActionLink("PDF", "GenerateInvoicePDF", new { Id = itm.Id }, new { @class = "btn btn-primary" })
+                        </td>
+                    </tr>
+
+                }
+
+            </table>
+
+        </div>
+
+    </div>
+
+</div>
+@Html.ActionLink("Add", "AddInvoice", (object)null, new { @class = "btn btn-primary" })

@@ -1,0 +1,43 @@
+﻿@using Warehouse.ViewModel
+@model Warehouse.ViewModel.ProductViewModel
+@{
+    ViewBag.Title = "SearchProduct";
+}
+
+<h2>SearchProduct</h2>
+
+
+<table style="width:100%" class="table table-striped">
+
+    <tr>
+        <td>Nazwa</td>
+        <td>Vat</td>
+        <td>Cena netto</td>
+        <td>Liczba</td>
+        <td>Marka</td>
+        <td>Opis</td>
+        <td>Kody</td>
+    </tr>
+
+    @foreach (var item in Model.Productlist)
+    {
+        <tbody>
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Vat</td>
+                <td>@item.NettoPrice</td>
+                <td>@item.Count</td>
+                <td>@item.SupplierId</td>
+                <td>@item.Description</td>
+
+
+                <td>
+                    <img src='@Url.Action("GetBarcode", "Product", new { ean = 123 })' alt="" />
+                    <img src='@Url.Action("GetBarcodeEight", "Product", new { ean = 123 })' alt="" />
+                    <img src='@Url.Action("GetBarcodeQR", "Product", new { ean = 123 })' alt="" />
+                </td>
+            </tr>
+
+        </tbody>
+    }
+</table>

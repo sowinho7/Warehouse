@@ -248,3 +248,666 @@ D:\uczelnia\systemy erp\store\Warehouse\bin\zxing.pdb
 D:\uczelnia\systemy erp\store\Warehouse\bin\zxing.xml
 D:\uczelnia\systemy erp\store\Warehouse\bin\zxing.presentation.pdb
 D:\uczelnia\systemy erp\store\Warehouse\bin\zxing.presentation.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\ApplicationInsights.config
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Warehouse.dll.config
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Warehouse.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Warehouse.pdb
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\csc.exe
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\csc.exe.config
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\csc.rsp
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\csi.exe
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\csi.exe.config
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\csi.rsp
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.AppContext.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.Collections.Immutable.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.Console.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.Diagnostics.Process.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.IO.Compression.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.IO.FileSystem.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.IO.Pipes.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.Reflection.Metadata.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.Security.AccessControl.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.Security.Claims.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.Security.Principal.Windows.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.Threading.Thread.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.ValueTuple.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.Xml.XmlDocument.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.Xml.XPath.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\vbc.exe
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\vbc.exe.config
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\vbc.rsp
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\VBCSCompiler.exe
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\roslyn\VBCSCompiler.exe.config
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Antlr3.Runtime.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\EntityFramework.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\EntityFramework.SqlServer.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.AI.Agent.Intercept.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.AI.DependencyCollector.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.AI.Web.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.AI.WindowsServer.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.ApplicationInsights.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.Core.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.Owin.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Cookies.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.Owin.Security.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Facebook.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Google.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.Owin.Security.OAuth.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Twitter.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.Web.Infrastructure.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Newtonsoft.Json.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Owin.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\System.Web.Helpers.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\System.Web.Mvc.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\System.Web.Optimization.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\System.Web.Razor.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\System.Web.WebPages.Deployment.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\System.Web.WebPages.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\System.Web.WebPages.Razor.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\WebGrease.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\zxing.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\zxing.presentation.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\System.Web.Helpers.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\System.Web.Mvc.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\System.Web.Optimization.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\System.Web.Razor.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\System.Web.WebPages.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\System.Web.WebPages.Deployment.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\System.Web.WebPages.Razor.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Antlr3.Runtime.pdb
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\zxing.pdb
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\zxing.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\zxing.presentation.pdb
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\zxing.presentation.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Newtonsoft.Json.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\EntityFramework.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\EntityFramework.SqlServer.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.Core.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.Owin.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.Owin.Security.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Facebook.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Cookies.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.Owin.Security.OAuth.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Google.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Twitter.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.ApplicationInsights.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.AI.DependencyCollector.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.AI.WindowsServer.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\bin\Microsoft.AI.Web.xml
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\obj\Debug\Warehouse.csprojResolveAssemblyReference.cache
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.initialmigration.resources
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.GenerateResource.cache
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.CopyComplete
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\obj\Debug\Warehouse.dll
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.dbchange.resources
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.dbmigrupdt.resources
+D:\uczelnia\systemy erp\Store\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.db_updt_invoice.resources
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\ApplicationInsights.config
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Warehouse.dll.config
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Warehouse.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Warehouse.pdb
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\csc.exe
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\csc.exe.config
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\csc.rsp
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\csi.exe
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\csi.exe.config
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\csi.rsp
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.AppContext.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Collections.Immutable.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Console.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Diagnostics.Process.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.IO.Compression.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.IO.FileSystem.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.IO.Pipes.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Reflection.Metadata.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.AccessControl.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Claims.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Threading.Thread.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.ValueTuple.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Xml.XPath.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\vbc.exe
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\vbc.exe.config
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\vbc.rsp
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\VBCSCompiler.exe
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\roslyn\VBCSCompiler.exe.config
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Antlr3.Runtime.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\EntityFramework.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\EntityFramework.SqlServer.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\itextsharp.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.DependencyCollector.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.Web.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.WindowsServer.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.ApplicationInsights.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Google.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.Web.Infrastructure.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Newtonsoft.Json.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Owin.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\System.Web.Helpers.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\System.Web.Mvc.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\System.Web.Optimization.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\System.Web.Razor.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.Deployment.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.Razor.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\WebGrease.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\zxing.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\zxing.presentation.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\itextsharp.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\System.Web.Helpers.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\System.Web.Mvc.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\System.Web.Optimization.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\System.Web.Razor.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.Deployment.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.Razor.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Antlr3.Runtime.pdb
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\zxing.pdb
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\zxing.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\zxing.presentation.pdb
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\zxing.presentation.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Newtonsoft.Json.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\EntityFramework.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\EntityFramework.SqlServer.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Google.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.ApplicationInsights.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.DependencyCollector.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.WindowsServer.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.Web.xml
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.csprojResolveAssemblyReference.cache
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.initialmigration.resources
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.dbchange.resources
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.dbmigrupdt.resources
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.db_updt_invoice.resources
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.GenerateResource.cache
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.CopyComplete
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.dll
+E:\Uczelnia\JOTB\Warehouse\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\ApplicationInsights.config
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Warehouse.dll.config
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Warehouse.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Warehouse.pdb
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\csc.exe
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\csc.exe.config
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\csc.rsp
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\csi.exe
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\csi.exe.config
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\csi.rsp
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.AppContext.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Collections.Immutable.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Console.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Diagnostics.Process.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.IO.Compression.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.IO.FileSystem.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.IO.Pipes.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Reflection.Metadata.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.AccessControl.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Claims.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Threading.Thread.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.ValueTuple.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Xml.XPath.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\vbc.exe
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\vbc.exe.config
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\vbc.rsp
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\VBCSCompiler.exe
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\roslyn\VBCSCompiler.exe.config
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Antlr3.Runtime.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\EntityFramework.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\EntityFramework.SqlServer.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\itextsharp.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.DependencyCollector.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.Web.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.WindowsServer.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.ApplicationInsights.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Google.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.Web.Infrastructure.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Newtonsoft.Json.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Owin.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\System.Web.Helpers.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\System.Web.Mvc.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\System.Web.Optimization.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\System.Web.Razor.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.Deployment.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.Razor.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\WebGrease.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\zxing.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\zxing.presentation.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\itextsharp.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\System.Web.Helpers.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\System.Web.Mvc.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\System.Web.Optimization.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\System.Web.Razor.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.Deployment.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.Razor.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Antlr3.Runtime.pdb
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\zxing.pdb
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\zxing.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\zxing.presentation.pdb
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\zxing.presentation.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Newtonsoft.Json.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\EntityFramework.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\EntityFramework.SqlServer.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Google.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.ApplicationInsights.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.DependencyCollector.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.WindowsServer.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.Web.xml
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.csprojResolveAssemblyReference.cache
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.initialmigration.resources
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.dbchange.resources
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.dbmigrupdt.resources
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.db_updt_invoice.resources
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.GenerateResource.cache
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.CopyComplete
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.dll
+E:\Uczelnia\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\ApplicationInsights.config
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Warehouse.dll.config
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Warehouse.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Warehouse.pdb
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\csc.exe
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\csc.exe.config
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\csc.rsp
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\csi.exe
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\csi.exe.config
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\csi.rsp
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.AppContext.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Console.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.IO.Compression.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Claims.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Threading.Thread.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.ValueTuple.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\vbc.exe
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\vbc.exe.config
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\vbc.rsp
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\VBCSCompiler.exe
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Antlr3.Runtime.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\EntityFramework.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\EntityFramework.SqlServer.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\itextsharp.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.Web.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Newtonsoft.Json.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Owin.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\System.Web.Helpers.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\System.Web.Mvc.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\System.Web.Optimization.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\System.Web.Razor.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.Razor.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\WebGrease.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\zxing.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\zxing.presentation.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\itextsharp.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\System.Web.Helpers.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\System.Web.Mvc.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\System.Web.Optimization.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\System.Web.Razor.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.Razor.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Antlr3.Runtime.pdb
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\zxing.pdb
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\zxing.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\zxing.presentation.pdb
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\zxing.presentation.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Newtonsoft.Json.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\EntityFramework.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\EntityFramework.SqlServer.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.Web.xml
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.csprojResolveAssemblyReference.cache
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.initialmigration.resources
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.dbchange.resources
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.dbmigrupdt.resources
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.db_updt_invoice.resources
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.GenerateResource.cache
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.CopyComplete
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.dll
+C:\Users\bmate\Desktop\war\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\ApplicationInsights.config
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Warehouse.dll.config
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Warehouse.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Warehouse.pdb
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\csc.exe
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\csc.exe.config
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\csc.rsp
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\csi.exe
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\csi.exe.config
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\csi.rsp
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.AppContext.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Console.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.IO.Compression.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Claims.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.ValueTuple.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\vbc.exe
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\vbc.exe.config
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\vbc.rsp
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Antlr3.Runtime.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\EntityFramework.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\EntityFramework.SqlServer.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\itextsharp.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.Web.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Newtonsoft.Json.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Owin.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\System.Web.Helpers.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\System.Web.Mvc.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\System.Web.Optimization.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\System.Web.Razor.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.Razor.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\WebGrease.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\zxing.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\zxing.presentation.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\itextsharp.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\System.Web.Helpers.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\System.Web.Mvc.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\System.Web.Optimization.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\System.Web.Razor.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\System.Web.WebPages.Razor.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Antlr3.Runtime.pdb
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\zxing.pdb
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\zxing.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\zxing.presentation.pdb
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\zxing.presentation.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Newtonsoft.Json.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\EntityFramework.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\EntityFramework.SqlServer.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\bin\Microsoft.AI.Web.xml
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.csprojResolveAssemblyReference.cache
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.initialmigration.resources
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.dbchange.resources
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.dbmigrupdt.resources
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.Migrations.db_updt_invoice.resources
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.GenerateResource.cache
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.CopyComplete
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.dll
+C:\Users\Wojtek\Downloads\war\war\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.pdb

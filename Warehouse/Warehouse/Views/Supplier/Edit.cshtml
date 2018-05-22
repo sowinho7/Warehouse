@@ -1,0 +1,47 @@
+﻿@using Warehouse.ViewModel
+@model Warehouse.ViewModel.SupplierViewModel
+@{
+    ViewBag.Title = "Edit";
+}
+
+<div class="row">
+    <h2>Edytuj </h2>
+
+    @using (Html.BeginForm())
+    {
+    <table class="table table-responsive">
+            <tr>
+                <td>Nazwa firmy</td>
+                <td>Narodowość</td>
+                <td>Miasto</td>
+                <td>Kod pocztowy</td>
+                <td>Adres</td>
+                <td>Numer konta</td>
+                <td>Podatek</td>
+
+            </tr>
+
+
+           
+        <tbody>
+            <tr>
+                <td>@Html.TextBox("supp.Name", value: Model.Supplier.Name)</td>
+                <td>@Html.TextBox("supp.Country", value: Model.Supplier.Country)</td>
+                <td>@Html.TextBox("supp.City", value: Model.Supplier.City)</td>
+                <td>@Html.TextBox("supp.ZipCode", value: Model.Supplier.ZipCode)</td>
+                <td>@Html.TextBox("supp.Address", value: Model.Supplier.Address)</td>
+                <td>@Html.TextBox("supp.AccNo", value: Model.Supplier.AccNo)</td>
+                <td>@Html.TextBox("supp.TaxNo", value: Model.Supplier.TaxNo)</td>
+
+            </tr>
+
+        </tbody>
+
+        </table>
+        <div class="form-group">
+            <input type="submit" value="Edytuj" class="btn btn-primary" />
+            @Html.ActionLink("Wroc", "Index", null, new { @class = "btn btn-danger" })
+        </div>
+
+    }
+</div>

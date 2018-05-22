@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Delete";
+}
+
+<div class="row">
+    <h2>Delete</h2>
+    @using (Html.BeginForm())
+    {
+    
+        <div class="col-md-12">
+            <div class="form-group">
+            <input value="Usuń" type="submit" class="btn btn-danger" />
+            @Html.ActionLink("Wroc", "Index", null, new { @class = "btn btn-default" })
+            </div>
+        </div>
+    }
+
+
+</div>

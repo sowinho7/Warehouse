@@ -35,10 +35,36 @@ namespace Warehouse.Controllers
             return RedirectToAction("Index");
         }
 
+        [HttpGet]
         public ActionResult Delete()
         {
 
             return View();
         }
+
+        [HttpPost]
+        public ActionResult Delete(int id)
+        {
+            repository.DeleteSupplier(id);
+            return RedirectToAction("Index");
+        }
+
+        [HttpGet]
+        public ActionResult Edit(int id)
+        {
+            var model = new SupplierViewModel
+            {
+                Supplier = repository.GetSupplier(id)
+            };
+            return View(model);
+        }
+
+        [HttpPost]
+        public ActionResult Edit(int id,Suppliers supp)
+        {
+            repository.EditSupplier(id, supp);
+            return RedirectToAction("Index");
+        }
+
     }
 }
